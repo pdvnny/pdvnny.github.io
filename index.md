@@ -1,3 +1,15 @@
+Thanks for stopping by my site. Please pardon the current appearance; this site is still under construction.
+
+Please visit my repositories at [this page](https://github.com/pdvnny) instead
+
+Also, here is a little bit about me:
+
+I am a student at Boston University (BU) where I am working on completing a Master's degree in Computer Engineering with a specialization in Data Analytics.
+
+My degree at BU will be a little longer than a normal Master's program. Until 2021, I was a chemist. I studied chemistry at Stonehill College and worked at PerkinElmer Health Sciences afterwards, but realized I wanted to work in a different field in the long-term. Instead of gradually making up some classes to enroll directly in a Master's program at BU, I started as a LEAP student at BU (LEAP program). After a couple semesters of "catch up" courses, I will be starting as a Master's candidate with other computer engineering students pursuing a Master's degree.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pdvnny/pdvnny.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
