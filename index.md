@@ -1,4 +1,4 @@
-<img src="https://github.com/pdvnny/pdvnny.github.io/blob/main/Grey-Shirt-1.jpg" alt="Me" width="300" height="330" class="center"/>
+<img src="https://github.com/pdvnny/pdvnny.github.io/blob/main/Grey-Shirt-1.jpg" alt="Me" width="310" height="330" class="center"/>
 
 Thanks for stopping by my site. __*Please pardon the current appearance; this site is still under construction.*__
 
